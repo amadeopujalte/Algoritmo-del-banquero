@@ -1,4 +1,4 @@
-# Algoritmo-del-banquero 
+# Algoritmo del Banquero 
 Una implementación del algoritmo del banquero hecha en C para poder utilizar como verificador de respuestas.
 El programa permite ingresar la cantidad de procesos y recursos, junto con las matrices de recursos máximos y asignados. A partir de eso calcula los recursos disponibles y las necesidades de cada proceso.
 
